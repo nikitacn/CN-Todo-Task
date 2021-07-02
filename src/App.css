@@ -1,0 +1,11 @@
+.todo-container {
+  max-height: 90vh;
+  overflow: scroll;
+}
+body {
+  background : url("https://source.unsplash.com/random?task") no-repeat;
+  background-size: cover;
+}
+.todo{
+  margin-bottom: 20px;
+}
